@@ -1,0 +1,1 @@
+yew port of https://github.com/gesterhuizen/sauron-onclick. This one works as expected, but I could not get the Sauron to work (detailed issue reported in its README).
