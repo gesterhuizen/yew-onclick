@@ -1,0 +1,8 @@
+[package]
+name = "minimal"
+version = "0.1.0"
+authors = ["Gerhard Esterhuizen <gerhard@esterhuizen.org>"]
+edition = "2018"
+
+[dependencies]
+yew = { git = "https://github.com/DenisKolodin/yew" }
